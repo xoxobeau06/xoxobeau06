@@ -59,11 +59,9 @@ Feel free to contribute and don't forget to star the repo!
 NOTE: **This is a note alert. Useful for highlighting important information.**
 
 TIP: _Pro tip: Use keyboard shortcuts to speed up your workflow!_ 
-
-## Comparison Table
-
-Feature    Basic Plan    Pro Plan    Enterprise
-Users      1-5           6-50        Unlimited
-Storage    10 GB         100 GB      Custom
-Support    Email         Priority    24/7 Phone
-Price      Free          $29/mo      Contact Us
+ 
+## Table
+| Feature | Basic Plan | Pro Plan | Enterprise |
+|---------|-----------|----------|------------|
+| Users | 1-5 | 6-50 | Unlimited |
+| Storage | 10 GB | 100 GB | Custom |
