@@ -41,10 +41,10 @@ https://assets.codepen.io/16425/image-placeholder.png
 ## Tasks
 
 - [x]Set up project structure (completed)
-- []Write initial documentation (completed)
-- []Add unit tests
-- []Deploy to production
-- [] Create tutorial videos
+- [ ]Write initial documentation (completed)
+- [ ]Add unit tests
+- [ ]Deploy to production
+- [ ] Create tutorial videos
 
 ## Emojis
 
