@@ -34,14 +34,14 @@ For more information, visit our official documentation [(https://github.com/user
 You can also check out the contributing guidelines [(https://github.com/username/project/blob/main/CONTRIBUTING.md).]
 
 ## Screenshots
+[Placeholder Image](https://assets.codepen.io/16425/image-placeholder.png)
 
-Markdown Logo
-https://assets.codepen.io/16425/image-placeholder.png
+![Placeholder Image](https://assets.codepen.io/16425/image-placeholder.png) 
 
 ## Tasks
 
 - [x] Set up project structure (completed)
-- [ ] Write initial documentation (completed)
+- [x] Write initial documentation (completed)
 - [ ] Add unit tests
 - [ ] Deploy to production
 - [ ] Create tutorial videos
@@ -51,10 +51,7 @@ https://assets.codepen.io/16425/image-placeholder.png
 We love open source! Let's build something amazing together!
 
 Feel free to contribute and don't forget to star the repo!
- :melting_face: 
- :sweat_smile: 
- :face_with_peeking_eye:
-
+	:heart:
 
 ## Important Notes
 
